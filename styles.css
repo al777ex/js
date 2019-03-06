@@ -1,0 +1,75 @@
+body {
+    background-image: url(cleveland-skyline-at-night-robert-harmon.jpg);
+    background-size: cover;
+}
+
+header {
+    background:rgba(35, 35, 80, .7);  
+}
+
+.navbar-brand {
+    font-size: 32px;
+    color: white;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .nav-link {
+      color: white;
+  }
+ .nav-link:hover {
+     background: white;
+    
+  }
+
+  .container {
+    background: rgba(255, 255, 255, .5); 
+    margin-top: 10px;
+    border-radius: 3px;
+
+}
+
+    .jumbotron {
+        background: rgba(233, 236, 239, .55)
+    }
+
+footer {
+    background: #140d14;
+    color: white;
+    text-align: center
+}
+
+address {
+    background: #171115;
+    margin-bottom: 0px;
+}
